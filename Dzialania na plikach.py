@@ -4,8 +4,8 @@ import os
 opcja = 't'  
 while opcja == 't':  
     print("********************ZAPIS DANYCH DO PLIKÓW********************")  
-    print("1 - Opcja 1")  
-    print("2 - Opcja 2")  
+    print("1 - Loteria liczbowa")  
+    print("2 - Analiza tekstu")  
     print("0 - Koniec")  
 
     try:  
